@@ -3,9 +3,8 @@
   <h3> Я Unity Developer из Санкт-Петербурга</h3>
 </div>
 
-# Страница пока оформляется  :technologist:
+# Страница пока оформляется  :technologist: :coffee: :coffee:
 
-               
             
 
 <!--

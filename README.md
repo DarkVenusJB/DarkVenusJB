@@ -1,12 +1,21 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <h1>  Привет меня зовут Дмитрий 👋</h1>
   <h3> Я Unity Developer из Санкт-Петербурга</h3>
 </div>
 
-![Static Badge](https://img.shields.io/badge/DarkVenus-blue?logo=telegram&logoSize=auto&link=https%3A%2F%2Ft.me%2FDarkVenusVD)
+<div align="center">
+ <a href="https://t.me/DarkVenusVD" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+ </a>
+</div>
 
 
-## Обо мне :technologist: :video_game:
+## 
+
+<div id="header" align="center">
+  <h1>  Обо мне 🧑‍💻🎮  </h1>
+</div> 
+
 
 Я начинающий Unity разработчик. Мой путь в геймдев начался с курса Skillbox по геймдизайну, получив некоторые знания о сфере, я понял, что мне интереснее воплощать идеи в жизнь с помощью кода и я решил начать путь разработчика. Начал я с Unreal Enngine и C++, поучаствовал в джеме с командой из трёх человек. 
 
